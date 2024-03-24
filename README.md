@@ -25,7 +25,7 @@ Projekt obuhvaća razvoj softverskog rješenja nazvanog "Studentski Restoran Man
 Zahtjevi za izradu ovog programskog proizvoda uključuju razvoj Studentskog Restoran Management Systema (SRMS) za podršku operativnim procesima studentskog restorana. Sustav treba omogućiti prikaz jelovnika, naručivanje hrane, recenziranje obroka, praćenje statusa narudžbi te integraciju s glavnim informacijskim sustavom studenata. Potrebno je osigurati korisničko sučelje prilagođeno potrebama studenata i zaposlenika restorana te sigurnu obradu i pohranu osjetljivih podataka. Uz to, sustav treba biti skalabilan, stabilan i siguran za korištenje, osiguravajući brzu i pouzdanu uslugu.
 
 ## Zadatak
-(U root repozitorija učitajte zadatak koji ste dobili i potom ovdje stavite link na njegovo otvaranje!)
+https://github.com/foivz/pi2024-zadace-ilesko22/wiki/SRMS
 
 ## Resursi
 (Zadaće je obvezno predati u obliku Wiki stranica na ovom repozitoriju. Slike i druge artefakte koje ćete koristiti na wiki stranicama smjestite u mapu dokumentacije u repozitoriju!)
