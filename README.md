@@ -13,9 +13,9 @@ A sada, vrijeme je za prvi korak rada na vašem projektu. 🙂 Za upis/opis vaš
 ## Podaci o studentu
 (Ispod promijenite samo drugi redak tablice!)
 
-Ime i prezime | E-mail adresa (FOI) | JMBAG     | Github korisničko ime
-------------  | ------------------- | --------- | ---------------------
-Ivan Leško    | ilesko22@foi.hr     | 000000000 | ilesko22
+Ime i prezime | E-mail adresa (FOI) | JMBAG       | Github korisničko ime
+------------  | ------------------- | ---------   | ---------------------
+Ivan Leško    | ilesko22@foi.hr     | 0016159666  | ilesko22
 
 
 ## Opis domene
