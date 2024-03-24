@@ -19,10 +19,10 @@ Ivan Leško    | ilesko22@foi.hr     | 0016159666  | ilesko22
 
 
 ## Opis domene
-(Vlastitim riječima opišite domenu ili problem koji pokriva projekt vaše zadaće!)
+Projekt obuhvaća razvoj softverskog rješenja nazvanog "Studentski Restoran Management System" (SRMS) za podršku operativnim procesima i upravljanje studentskim restoranom u okviru Studentskog centra Varaždin (SCVZ). Glavni cilj ovog sustava je poboljšati zadovoljstvo studenata obrocima putem praćenja njihovih preferencija i olakšati proces naručivanja hrane. SRMS će omogućiti evidenciju narudžbi, recenziranje obroka, generiranje izvještaja i integraciju s glavnim informacijskim sustavom studenata za provjeru valjanosti studentskih prava. Ovaj projekt će adresirati potrebe studenata za brzim i jednostavnim naručivanjem hrane te pružiti alate zaposlenicima restorana za učinkovito upravljanje narudžbama i poboljšanje kvalitete usluge.
 
 ## Specifikacija projekta
-(Vlastitim riječima opišite zahtjeve za izradu ovog programskog proizvoda!)
+Zahtjevi za izradu ovog programskog proizvoda uključuju razvoj Studentskog Restoran Management Systema (SRMS) za podršku operativnim procesima studentskog restorana. Sustav treba omogućiti prikaz jelovnika, naručivanje hrane, recenziranje obroka, praćenje statusa narudžbi te integraciju s glavnim informacijskim sustavom studenata. Potrebno je osigurati korisničko sučelje prilagođeno potrebama studenata i zaposlenika restorana te sigurnu obradu i pohranu osjetljivih podataka. Uz to, sustav treba biti skalabilan, stabilan i siguran za korištenje, osiguravajući brzu i pouzdanu uslugu.
 
 ## Zadatak
 (U root repozitorija učitajte zadatak koji ste dobili i potom ovdje stavite link na njegovo otvaranje!)
