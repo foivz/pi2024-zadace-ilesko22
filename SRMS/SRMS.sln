@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRMS", "SRMS\SRMS.csproj", "{925ED023-3D12-4E60-BA24-746455477084}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{925ED023-3D12-4E60-BA24-746455477084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925ED023-3D12-4E60-BA24-746455477084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925ED023-3D12-4E60-BA24-746455477084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925ED023-3D12-4E60-BA24-746455477084}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC461C6F-CA0A-4B17-91EA-AB7E298D6712}
+	EndGlobalSection
+EndGlobal
