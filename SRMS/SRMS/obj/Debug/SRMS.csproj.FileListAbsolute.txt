@@ -8,3 +8,4 @@ C:\Users\Korisnik\source\repos\pi2024-zadace-ilesko22\SRMS\SRMS\obj\Debug\SRMS.c
 C:\Users\Korisnik\source\repos\pi2024-zadace-ilesko22\SRMS\SRMS\obj\Debug\SRMS.csproj.CoreCompileInputs.cache
 C:\Users\Korisnik\source\repos\pi2024-zadace-ilesko22\SRMS\SRMS\obj\Debug\SRMS.exe
 C:\Users\Korisnik\source\repos\pi2024-zadace-ilesko22\SRMS\SRMS\obj\Debug\SRMS.pdb
+C:\Users\Korisnik\source\repos\pi2024-zadace-ilesko22\SRMS\SRMS\obj\Debug\SRMS.FrmPocetnaStranica.resources

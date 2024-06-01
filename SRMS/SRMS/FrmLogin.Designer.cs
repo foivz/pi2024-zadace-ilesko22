@@ -95,6 +95,7 @@
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Prijava";
+
             this.ResumeLayout(false);
             this.PerformLayout();
 
