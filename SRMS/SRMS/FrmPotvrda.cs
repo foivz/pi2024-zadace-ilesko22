@@ -10,19 +10,11 @@ using System.Windows.Forms;
 
 namespace SRMS
 {
-    public partial class FrmPocetnaStranica : Form
+    public partial class FrmPotvrda : Form
     {
-        public FrmPocetnaStranica()
+        public FrmPotvrda()
         {
             InitializeComponent();
-        }
-
-        private void btnRucak_Click(object sender, EventArgs e)
-        {
-            Hide();
-            FrmRucak frmRucak = new FrmRucak();
-            frmRucak.ShowDialog();
-            this.Hide();
         }
     }
 }

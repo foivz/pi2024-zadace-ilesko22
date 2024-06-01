@@ -17,6 +17,28 @@ namespace SRMS
             InitializeComponent();
         }
 
+        private void btnNazad_Click(object sender, EventArgs e)
+        {
+            Hide();
+            FrmPocetnaStranica frmPocetnaStranica = new FrmPocetnaStranica();
+            frmPocetnaStranica.ShowDialog();
+            this.Close();
+        }
 
+        private void btnDetalji_Click(object sender, EventArgs e)
+        {
+            Hide();
+            FrmMeni1 frmMeni1 = new FrmMeni1();
+            frmMeni1.ShowDialog();
+            this.Close();
+        }
+
+        private void btnMeni1_Click(object sender, EventArgs e)
+        {
+            Hide();
+            FrmPlacanje frmPlacanje = new FrmPlacanje();
+            frmPlacanje.ShowDialog();
+            this.Close();
+        }
     }
 }

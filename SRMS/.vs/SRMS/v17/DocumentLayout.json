@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|c:\\users\\korisnik\\source\\repos\\pi2024-zadace-ilesko22\\srms\\srms\\frmrucak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|solutionrelative:srms\\frmrucak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|c:\\users\\korisnik\\source\\repos\\pi2024-zadace-ilesko22\\srms\\srms\\frmpotvrda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|solutionrelative:srms\\frmpotvrda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|c:\\users\\korisnik\\source\\repos\\pi2024-zadace-ilesko22\\srms\\srms\\frmrucak.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|solutionrelative:srms\\frmrucak.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|c:\\users\\korisnik\\source\\repos\\pi2024-zadace-ilesko22\\srms\\srms\\frmplacanje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|solutionrelative:srms\\frmplacanje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|c:\\users\\korisnik\\source\\repos\\pi2024-zadace-ilesko22\\srms\\srms\\frmrucak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|solutionrelative:srms\\frmrucak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|c:\\users\\korisnik\\source\\repos\\pi2024-zadace-ilesko22\\srms\\srms\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|solutionrelative:srms\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|c:\\users\\korisnik\\source\\repos\\pi2024-zadace-ilesko22\\srms\\srms\\frmrucak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|solutionrelative:srms\\frmrucak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\srms\\frmpocetnastranica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|solutionrelative:srms\\frmpocetnastranica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|c:\\users\\korisnik\\source\\repos\\pi2024-zadace-ilesko22\\srms\\srms\\frmpocetnastranica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|solutionrelative:srms\\frmpocetnastranica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|c:\\users\\korisnik\\source\\repos\\pi2024-zadace-ilesko22\\srms\\srms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\srms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|solutionrelative:srms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|c:\\users\\korisnik\\source\\repos\\pi2024-zadace-ilesko22\\srms\\srms\\frmplacanje.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|solutionrelative:srms\\frmplacanje.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\srms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|solutionrelative:srms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|c:\\users\\korisnik\\source\\repos\\pi2024-zadace-ilesko22\\srms\\srms\\frmplacanje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|solutionrelative:srms\\frmplacanje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|c:\\users\\korisnik\\source\\repos\\pi2024-zadace-ilesko22\\srms\\srms\\frmmeni1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|solutionrelative:srms\\frmmeni1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|c:\\users\\korisnik\\source\\repos\\pi2024-zadace-ilesko22\\srms\\srms\\frmmeni1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|solutionrelative:srms\\frmmeni1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,23 +50,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrmRucak.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmRucak.Designer.cs",
-              "RelativeDocumentMoniker": "SRMS\\FrmRucak.Designer.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmRucak.Designer.cs",
-              "RelativeToolTip": "SRMS\\FrmRucak.Designer.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAWwGkAAAAAAAAA",
+              "Title": "FrmPlacanje.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmPlacanje.cs",
+              "RelativeDocumentMoniker": "SRMS\\FrmPlacanje.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmPlacanje.cs",
+              "RelativeToolTip": "SRMS\\FrmPlacanje.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T20:04:44.059Z",
+              "WhenOpened": "2024-06-01T22:51:54.197Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -69,77 +74,93 @@
               "RelativeDocumentMoniker": "SRMS\\FrmRucak.cs",
               "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmRucak.cs",
               "RelativeToolTip": "SRMS\\FrmRucak.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAD4vxMAAAAAAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwCUAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T20:04:32.816Z",
+              "WhenOpened": "2024-06-01T23:21:02.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FrmLogin.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmLogin.Designer.cs",
-              "RelativeDocumentMoniker": "SRMS\\FrmLogin.Designer.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmLogin.Designer.cs",
-              "RelativeToolTip": "SRMS\\FrmLogin.Designer.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAWwGEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T19:31:15.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "FrmRucak.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmRucak.cs",
               "RelativeDocumentMoniker": "SRMS\\FrmRucak.cs",
               "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmRucak.cs [Design]",
               "RelativeToolTip": "SRMS\\FrmRucak.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T19:52:14.855Z",
+              "WhenOpened": "2024-06-01T23:20:59.274Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmPocetnaStranica.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmPocetnaStranica.cs",
-              "RelativeDocumentMoniker": "SRMS\\FrmPocetnaStranica.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmPocetnaStranica.cs [Design]",
-              "RelativeToolTip": "SRMS\\FrmPocetnaStranica.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "FrmPotvrda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmPotvrda.cs",
+              "RelativeDocumentMoniker": "SRMS\\FrmPotvrda.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmPotvrda.cs [Design]",
+              "RelativeToolTip": "SRMS\\FrmPotvrda.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T17:19:37.478Z",
+              "WhenOpened": "2024-06-01T23:18:08.738Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "FrmPocetnaStranica.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmPocetnaStranica.cs",
-              "RelativeDocumentMoniker": "SRMS\\FrmPocetnaStranica.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmPocetnaStranica.cs",
-              "RelativeToolTip": "SRMS\\FrmPocetnaStranica.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAXAAAA",
+              "Title": "FrmPlacanje.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmPlacanje.Designer.cs",
+              "RelativeDocumentMoniker": "SRMS\\FrmPlacanje.Designer.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmPlacanje.Designer.cs",
+              "RelativeToolTip": "SRMS\\FrmPlacanje.Designer.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAmwGEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T19:26:25.609Z",
+              "WhenOpened": "2024-06-01T22:52:03.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "FrmPlacanje.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmPlacanje.cs",
+              "RelativeDocumentMoniker": "SRMS\\FrmPlacanje.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmPlacanje.cs [Design]",
+              "RelativeToolTip": "SRMS\\FrmPlacanje.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:49:55.867Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmMeni1.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmMeni1.cs",
+              "RelativeDocumentMoniker": "SRMS\\FrmMeni1.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmMeni1.cs",
+              "RelativeToolTip": "SRMS\\FrmMeni1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAWwBUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:46:49.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "FrmLogin.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmLogin.cs",
               "RelativeDocumentMoniker": "SRMS\\FrmLogin.cs",
               "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmLogin.cs",
               "RelativeToolTip": "SRMS\\FrmLogin.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAACFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T16:36:10.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "FrmLogin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmLogin.cs",
               "RelativeDocumentMoniker": "SRMS\\FrmLogin.cs",
@@ -150,8 +171,16 @@
               "EditorCaption": " [Design]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmMeni1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmMeni1.cs",
+              "RelativeDocumentMoniker": "SRMS\\FrmMeni1.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmMeni1.cs [Design]",
+              "RelativeToolTip": "SRMS\\FrmMeni1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:20:56.025Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

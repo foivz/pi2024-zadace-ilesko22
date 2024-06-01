@@ -20,6 +20,7 @@
             base.Dispose(disposing);
         }
 
+
         #region Windows Form Designer generated code
 
         /// <summary>
@@ -32,23 +33,28 @@
             this.btnMeni2 = new System.Windows.Forms.Button();
             this.btnMeni3 = new System.Windows.Forms.Button();
             this.gpbMeni1 = new System.Windows.Forms.GroupBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.btnDetalji = new System.Windows.Forms.Button();
             this.lblKolac = new System.Windows.Forms.Label();
             this.lblSalata1 = new System.Windows.Forms.Label();
             this.lblPrilog1 = new System.Windows.Forms.Label();
             this.lblGlavnoJelo1 = new System.Windows.Forms.Label();
             this.lblJuha1 = new System.Windows.Forms.Label();
             this.gpbMeni2 = new System.Windows.Forms.GroupBox();
+            this.btnDetalji2 = new System.Windows.Forms.Button();
             this.lblKolac2 = new System.Windows.Forms.Label();
             this.lblSalata2 = new System.Windows.Forms.Label();
             this.lblPrilog2 = new System.Windows.Forms.Label();
             this.lblGlavnoJelo2 = new System.Windows.Forms.Label();
             this.lblJuha2 = new System.Windows.Forms.Label();
             this.gpbMeni3 = new System.Windows.Forms.GroupBox();
-            this.lblJuha3 = new System.Windows.Forms.Label();
-            this.lblPrilog3 = new System.Windows.Forms.Label();
-            this.lblKolac3 = new System.Windows.Forms.Label();
-            this.lblSalata3 = new System.Windows.Forms.Label();
+            this.btnDetalji3 = new System.Windows.Forms.Button();
             this.lblGlavnoJelo3 = new System.Windows.Forms.Label();
+            this.lblSalata3 = new System.Windows.Forms.Label();
+            this.lblKolac3 = new System.Windows.Forms.Label();
+            this.lblPrilog3 = new System.Windows.Forms.Label();
+            this.lblJuha3 = new System.Windows.Forms.Label();
+            this.btnNazad = new System.Windows.Forms.Button();
             this.gpbMeni1.SuspendLayout();
             this.gpbMeni2.SuspendLayout();
             this.gpbMeni3.SuspendLayout();
@@ -62,6 +68,7 @@
             this.btnMeni1.TabIndex = 0;
             this.btnMeni1.Text = "Meni 1";
             this.btnMeni1.UseVisualStyleBackColor = true;
+            this.btnMeni1.Click += new System.EventHandler(this.btnMeni1_Click);
             // 
             // btnMeni2
             // 
@@ -84,6 +91,8 @@
             // gpbMeni1
             // 
             this.gpbMeni1.BackColor = System.Drawing.Color.Lavender;
+            this.gpbMeni1.Controls.Add(this.label1);
+            this.gpbMeni1.Controls.Add(this.btnDetalji);
             this.gpbMeni1.Controls.Add(this.lblKolac);
             this.gpbMeni1.Controls.Add(this.lblSalata1);
             this.gpbMeni1.Controls.Add(this.lblPrilog1);
@@ -94,6 +103,24 @@
             this.gpbMeni1.Size = new System.Drawing.Size(364, 319);
             this.gpbMeni1.TabIndex = 3;
             this.gpbMeni1.TabStop = false;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(141, 228);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(0, 16);
+            this.label1.TabIndex = 6;
+            // 
+            // btnDetalji
+            // 
+            this.btnDetalji.Location = new System.Drawing.Point(266, 285);
+            this.btnDetalji.Name = "btnDetalji";
+            this.btnDetalji.Size = new System.Drawing.Size(75, 23);
+            this.btnDetalji.TabIndex = 5;
+            this.btnDetalji.Text = "Detalji";
+            this.btnDetalji.UseVisualStyleBackColor = true;
+            this.btnDetalji.Click += new System.EventHandler(this.btnDetalji_Click);
             // 
             // lblKolac
             // 
@@ -143,6 +170,7 @@
             // gpbMeni2
             // 
             this.gpbMeni2.BackColor = System.Drawing.Color.Lavender;
+            this.gpbMeni2.Controls.Add(this.btnDetalji2);
             this.gpbMeni2.Controls.Add(this.lblKolac2);
             this.gpbMeni2.Controls.Add(this.lblSalata2);
             this.gpbMeni2.Controls.Add(this.lblPrilog2);
@@ -153,6 +181,15 @@
             this.gpbMeni2.Size = new System.Drawing.Size(333, 319);
             this.gpbMeni2.TabIndex = 4;
             this.gpbMeni2.TabStop = false;
+            // 
+            // btnDetalji2
+            // 
+            this.btnDetalji2.Location = new System.Drawing.Point(230, 285);
+            this.btnDetalji2.Name = "btnDetalji2";
+            this.btnDetalji2.Size = new System.Drawing.Size(75, 23);
+            this.btnDetalji2.TabIndex = 6;
+            this.btnDetalji2.Text = "Detalji";
+            this.btnDetalji2.UseVisualStyleBackColor = true;
             // 
             // lblKolac2
             // 
@@ -202,6 +239,7 @@
             // gpbMeni3
             // 
             this.gpbMeni3.BackColor = System.Drawing.Color.Lavender;
+            this.gpbMeni3.Controls.Add(this.btnDetalji3);
             this.gpbMeni3.Controls.Add(this.lblGlavnoJelo3);
             this.gpbMeni3.Controls.Add(this.lblSalata3);
             this.gpbMeni3.Controls.Add(this.lblKolac3);
@@ -213,41 +251,14 @@
             this.gpbMeni3.TabIndex = 5;
             this.gpbMeni3.TabStop = false;
             // 
-            // lblJuha3
+            // btnDetalji3
             // 
-            this.lblJuha3.AutoSize = true;
-            this.lblJuha3.Location = new System.Drawing.Point(95, 40);
-            this.lblJuha3.Name = "lblJuha3";
-            this.lblJuha3.Size = new System.Drawing.Size(120, 16);
-            this.lblJuha3.TabIndex = 6;
-            this.lblJuha3.Text = "Krem juha od gljiva";
-            // 
-            // lblPrilog3
-            // 
-            this.lblPrilog3.AutoSize = true;
-            this.lblPrilog3.Location = new System.Drawing.Point(119, 112);
-            this.lblPrilog3.Name = "lblPrilog3";
-            this.lblPrilog3.Size = new System.Drawing.Size(70, 16);
-            this.lblPrilog3.TabIndex = 6;
-            this.lblPrilog3.Text = "Tjestenina";
-            // 
-            // lblKolac3
-            // 
-            this.lblKolac3.AutoSize = true;
-            this.lblKolac3.Location = new System.Drawing.Point(137, 181);
-            this.lblKolac3.Name = "lblKolac3";
-            this.lblKolac3.Size = new System.Drawing.Size(41, 16);
-            this.lblKolac3.TabIndex = 6;
-            this.lblKolac3.Text = "Kolač";
-            // 
-            // lblSalata3
-            // 
-            this.lblSalata3.AutoSize = true;
-            this.lblSalata3.Location = new System.Drawing.Point(106, 147);
-            this.lblSalata3.Name = "lblSalata3";
-            this.lblSalata3.Size = new System.Drawing.Size(108, 16);
-            this.lblSalata3.TabIndex = 7;
-            this.lblSalata3.Text = "Salata od rajčice";
+            this.btnDetalji3.Location = new System.Drawing.Point(233, 285);
+            this.btnDetalji3.Name = "btnDetalji3";
+            this.btnDetalji3.Size = new System.Drawing.Size(75, 23);
+            this.btnDetalji3.TabIndex = 7;
+            this.btnDetalji3.Text = "Detalji";
+            this.btnDetalji3.UseVisualStyleBackColor = true;
             // 
             // lblGlavnoJelo3
             // 
@@ -258,11 +269,58 @@
             this.lblGlavnoJelo3.TabIndex = 8;
             this.lblGlavnoJelo3.Text = "Popečak od blitve";
             // 
+            // lblSalata3
+            // 
+            this.lblSalata3.AutoSize = true;
+            this.lblSalata3.Location = new System.Drawing.Point(106, 147);
+            this.lblSalata3.Name = "lblSalata3";
+            this.lblSalata3.Size = new System.Drawing.Size(108, 16);
+            this.lblSalata3.TabIndex = 7;
+            this.lblSalata3.Text = "Salata od rajčice";
+            // 
+            // lblKolac3
+            // 
+            this.lblKolac3.AutoSize = true;
+            this.lblKolac3.Location = new System.Drawing.Point(137, 181);
+            this.lblKolac3.Name = "lblKolac3";
+            this.lblKolac3.Size = new System.Drawing.Size(41, 16);
+            this.lblKolac3.TabIndex = 6;
+            this.lblKolac3.Text = "Kolač";
+            // 
+            // lblPrilog3
+            // 
+            this.lblPrilog3.AutoSize = true;
+            this.lblPrilog3.Location = new System.Drawing.Point(119, 112);
+            this.lblPrilog3.Name = "lblPrilog3";
+            this.lblPrilog3.Size = new System.Drawing.Size(70, 16);
+            this.lblPrilog3.TabIndex = 6;
+            this.lblPrilog3.Text = "Tjestenina";
+            // 
+            // lblJuha3
+            // 
+            this.lblJuha3.AutoSize = true;
+            this.lblJuha3.Location = new System.Drawing.Point(95, 40);
+            this.lblJuha3.Name = "lblJuha3";
+            this.lblJuha3.Size = new System.Drawing.Size(120, 16);
+            this.lblJuha3.TabIndex = 6;
+            this.lblJuha3.Text = "Krem juha od gljiva";
+            // 
+            // btnNazad
+            // 
+            this.btnNazad.Location = new System.Drawing.Point(20, 12);
+            this.btnNazad.Name = "btnNazad";
+            this.btnNazad.Size = new System.Drawing.Size(75, 35);
+            this.btnNazad.TabIndex = 6;
+            this.btnNazad.Text = "Nazad";
+            this.btnNazad.UseVisualStyleBackColor = true;
+            this.btnNazad.Click += new System.EventHandler(this.btnNazad_Click);
+            // 
             // FrmRucak
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1283, 716);
+            this.Controls.Add(this.btnNazad);
             this.Controls.Add(this.gpbMeni3);
             this.Controls.Add(this.gpbMeni2);
             this.Controls.Add(this.gpbMeni1);
@@ -307,5 +365,10 @@
         private System.Windows.Forms.Label lblJuha3;
         private System.Windows.Forms.Label lblSalata3;
         private System.Windows.Forms.Label lblGlavnoJelo3;
+        private System.Windows.Forms.Button btnDetalji;
+        private System.Windows.Forms.Button btnDetalji2;
+        private System.Windows.Forms.Button btnDetalji3;
+        private System.Windows.Forms.Button btnNazad;
+        private System.Windows.Forms.Label label1;
     }
 }
