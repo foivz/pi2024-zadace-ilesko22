@@ -52,7 +52,6 @@
             this.lblPassword.Size = new System.Drawing.Size(56, 16);
             this.lblPassword.TabIndex = 1;
             this.lblPassword.Text = "Lozinka:";
-            this.lblPassword.Click += new System.EventHandler(this.label2_Click);
             // 
             // txtUsername
             // 
@@ -60,7 +59,6 @@
             this.txtUsername.Name = "txtUsername";
             this.txtUsername.Size = new System.Drawing.Size(189, 22);
             this.txtUsername.TabIndex = 2;
-            this.txtUsername.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // txtPassword
             // 
@@ -78,7 +76,6 @@
             this.btnLogin.TabIndex = 4;
             this.btnLogin.Text = "Prijavi se";
             this.btnLogin.UseVisualStyleBackColor = true;
-            this.btnLogin.Click += new System.EventHandler(this.button1_Click);
             // 
             // FrmLogin
             // 
