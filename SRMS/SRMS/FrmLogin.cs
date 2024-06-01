@@ -17,5 +17,24 @@ namespace SRMS
             InitializeComponent();
         }
 
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            string username = txtUsername.Text;
+            string password = txtPassword.Text;
+            if (username == "" ||  password == "")
+            {
+                MessageBox.Show("Popunite sva polja", "Pogreška", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }else if (username == "ilesko@gmail.com" && password == "1234")
+            {
+                Hide();
+                FrmPocetnaStranica frmPocetnaStranica = new FrmPocetnaStranica();
+                frmPocetnaStranica.ShowDialog();
+                Close();
+            }else
+            {
+                MessageBox.Show("Email ili lozinka nisu ispravni", "Neuspješna prijava", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
     }
 }

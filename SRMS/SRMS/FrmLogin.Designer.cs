@@ -38,16 +38,16 @@
             // lblUsername
             // 
             this.lblUsername.AutoSize = true;
-            this.lblUsername.Location = new System.Drawing.Point(14, 25);
+            this.lblUsername.Location = new System.Drawing.Point(26, 25);
             this.lblUsername.Name = "lblUsername";
-            this.lblUsername.Size = new System.Drawing.Size(97, 16);
+            this.lblUsername.Size = new System.Drawing.Size(44, 16);
             this.lblUsername.TabIndex = 0;
-            this.lblUsername.Text = "Korisničko ime:";
+            this.lblUsername.Text = "Email:";
             // 
             // lblPassword
             // 
             this.lblPassword.AutoSize = true;
-            this.lblPassword.Location = new System.Drawing.Point(14, 70);
+            this.lblPassword.Location = new System.Drawing.Point(26, 70);
             this.lblPassword.Name = "lblPassword";
             this.lblPassword.Size = new System.Drawing.Size(56, 16);
             this.lblPassword.TabIndex = 1;
@@ -76,6 +76,7 @@
             this.btnLogin.TabIndex = 4;
             this.btnLogin.Text = "Prijavi se";
             this.btnLogin.UseVisualStyleBackColor = true;
+            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
             // 
             // FrmLogin
             // 
