@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|c:\\users\\korisnik\\source\\repos\\pi2024-zadace-ilesko22\\srms\\srms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|solutionrelative:srms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|c:\\users\\korisnik\\source\\repos\\pi2024-zadace-ilesko22\\srms\\srms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|solutionrelative:srms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,8 +25,17 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "SRMS\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmLogin.cs",
+              "RelativeToolTip": "SRMS\\FrmLogin.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIAzwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T15:38:06.285Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
