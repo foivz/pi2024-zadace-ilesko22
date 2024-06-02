@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DBLayer;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -36,6 +37,10 @@ namespace SRMS
             }
         }
 
+        private void FrmLogin_Load(object sender, EventArgs e)
+        {
+            DB.SetConfiguration("PI2324_ilesko22_DB", "PI2324_ilesko22_User", ">N/PV71:");
 
+        }
     }
 }
