@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\srms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|solutionrelative:srms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|c:\\users\\korisnik\\source\\repos\\pi2024-zadace-ilesko22\\srms\\srms\\frmrucak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|solutionrelative:srms\\frmrucak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\srms\\frmrucak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|solutionrelative:srms\\frmrucak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\srms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|solutionrelative:srms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{925ED023-3D12-4E60-BA24-746455477084}|SRMS\\SRMS.csproj|C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\srms\\frmplacanje.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FrmPlacanje.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmPlacanje.cs",
               "RelativeDocumentMoniker": "SRMS\\FrmPlacanje.cs",
@@ -63,8 +63,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T22:51:54.197Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -76,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FrmRucak.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmRucak.cs",
               "RelativeDocumentMoniker": "SRMS\\FrmRucak.cs",
@@ -89,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FrmRucak.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmRucak.cs",
               "RelativeDocumentMoniker": "SRMS\\FrmRucak.cs",
@@ -101,15 +100,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FrmPotvrda.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmPotvrda.cs",
               "RelativeDocumentMoniker": "SRMS\\FrmPotvrda.cs",
               "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmPotvrda.cs [Design]",
               "RelativeToolTip": "SRMS\\FrmPotvrda.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T23:18:08.738Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-01T23:18:08.738Z"
             },
             {
               "$type": "Document",
@@ -121,8 +119,7 @@
               "RelativeToolTip": "SRMS\\FrmPlacanje.Designer.cs",
               "ViewState": "AQIAAFIAAAAAAAAAAAAmwGEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T22:52:03.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T22:52:03.632Z"
             },
             {
               "$type": "Document",
@@ -133,8 +130,7 @@
               "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmPlacanje.cs [Design]",
               "RelativeToolTip": "SRMS\\FrmPlacanje.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T22:49:55.867Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-01T22:49:55.867Z"
             },
             {
               "$type": "Document",
@@ -150,15 +146,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "FrmLogin.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmLogin.cs",
               "RelativeDocumentMoniker": "SRMS\\FrmLogin.cs",
               "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmLogin.cs",
               "RelativeToolTip": "SRMS\\FrmLogin.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAACFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAACFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T16:36:10.097Z"
+              "WhenOpened": "2024-06-01T16:36:10.097Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -169,7 +166,8 @@
               "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\pi2024-zadace-ilesko22\\SRMS\\SRMS\\FrmLogin.cs [Design]",
               "RelativeToolTip": "SRMS\\FrmLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:31:02.814Z"
+              "WhenOpened": "2024-06-01T14:31:02.814Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",

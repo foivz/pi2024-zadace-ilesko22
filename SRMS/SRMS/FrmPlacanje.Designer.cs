@@ -42,7 +42,7 @@
             // lblImePrez
             // 
             this.lblImePrez.AutoSize = true;
-            this.lblImePrez.Location = new System.Drawing.Point(243, 79);
+            this.lblImePrez.Location = new System.Drawing.Point(147, 57);
             this.lblImePrez.Name = "lblImePrez";
             this.lblImePrez.Size = new System.Drawing.Size(87, 16);
             this.lblImePrez.TabIndex = 0;
@@ -50,7 +50,7 @@
             // 
             // txtImePrez
             // 
-            this.txtImePrez.Location = new System.Drawing.Point(246, 108);
+            this.txtImePrez.Location = new System.Drawing.Point(150, 76);
             this.txtImePrez.Name = "txtImePrez";
             this.txtImePrez.Size = new System.Drawing.Size(252, 22);
             this.txtImePrez.TabIndex = 1;
@@ -58,7 +58,7 @@
             // lblBrojKartice
             // 
             this.lblBrojKartice.AutoSize = true;
-            this.lblBrojKartice.Location = new System.Drawing.Point(243, 160);
+            this.lblBrojKartice.Location = new System.Drawing.Point(147, 132);
             this.lblBrojKartice.Name = "lblBrojKartice";
             this.lblBrojKartice.Size = new System.Drawing.Size(75, 16);
             this.lblBrojKartice.TabIndex = 2;
@@ -67,7 +67,7 @@
             // lblDatumIsteka
             // 
             this.lblDatumIsteka.AutoSize = true;
-            this.lblDatumIsteka.Location = new System.Drawing.Point(250, 250);
+            this.lblDatumIsteka.Location = new System.Drawing.Point(147, 206);
             this.lblDatumIsteka.Name = "lblDatumIsteka";
             this.lblDatumIsteka.Size = new System.Drawing.Size(128, 16);
             this.lblDatumIsteka.TabIndex = 3;
@@ -76,7 +76,7 @@
             // lblCVC
             // 
             this.lblCVC.AutoSize = true;
-            this.lblCVC.Location = new System.Drawing.Point(251, 312);
+            this.lblCVC.Location = new System.Drawing.Point(147, 270);
             this.lblCVC.Name = "lblCVC";
             this.lblCVC.Size = new System.Drawing.Size(34, 16);
             this.lblCVC.TabIndex = 4;
@@ -84,28 +84,28 @@
             // 
             // txtBrojKartice
             // 
-            this.txtBrojKartice.Location = new System.Drawing.Point(246, 179);
+            this.txtBrojKartice.Location = new System.Drawing.Point(150, 151);
             this.txtBrojKartice.Name = "txtBrojKartice";
             this.txtBrojKartice.Size = new System.Drawing.Size(252, 22);
             this.txtBrojKartice.TabIndex = 5;
             // 
             // txtDatumIsteka
             // 
-            this.txtDatumIsteka.Location = new System.Drawing.Point(246, 269);
+            this.txtDatumIsteka.Location = new System.Drawing.Point(150, 225);
             this.txtDatumIsteka.Name = "txtDatumIsteka";
             this.txtDatumIsteka.Size = new System.Drawing.Size(162, 22);
             this.txtDatumIsteka.TabIndex = 6;
             // 
             // txtCVC
             // 
-            this.txtCVC.Location = new System.Drawing.Point(246, 331);
+            this.txtCVC.Location = new System.Drawing.Point(150, 289);
             this.txtCVC.Name = "txtCVC";
             this.txtCVC.Size = new System.Drawing.Size(61, 22);
             this.txtCVC.TabIndex = 7;
             // 
             // btnNastavi
             // 
-            this.btnNastavi.Location = new System.Drawing.Point(596, 352);
+            this.btnNastavi.Location = new System.Drawing.Point(437, 327);
             this.btnNastavi.Name = "btnNastavi";
             this.btnNastavi.Size = new System.Drawing.Size(75, 23);
             this.btnNastavi.TabIndex = 8;
@@ -117,7 +117,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(688, 383);
+            this.ClientSize = new System.Drawing.Size(536, 383);
             this.Controls.Add(this.btnNastavi);
             this.Controls.Add(this.txtCVC);
             this.Controls.Add(this.txtDatumIsteka);
