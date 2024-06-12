@@ -18,12 +18,10 @@ Ime i prezime | E-mail adresa (FOI) | JMBAG       | Github korisničko ime
 Ivan Leško    | ilesko22@foi.hr     | 0016159666  | ilesko22
 
 ## Podaci za trecu zadacu
-Gmail: ilesko@gmail.com
-Password: 1234
-Ime i prezime: Ivan Lesko
-Broj kartice: 0000 0000 0000 0000
-Datum isteka kartice: 06/27
-CVC: 753
+Gmail: ilesko@gmail.com                                                                                                                                                                            
+Password: 1234                                                                                                                                                                                        
+Ime i prezime: Ivan Lesko                                                                                                                                                                                            Broj kartice: 0000 0000 0000 0000
+Datum isteka kartice: 06/27                                                                                                                                                                                          CVC: 753                                                                                                                                                                                    
 
 ## Opis domene
 Projekt obuhvaća razvoj softverskog rješenja nazvanog "Studentski Restoran Management System" (SRMS) za podršku operativnim procesima i upravljanje studentskim restoranom u okviru Studentskog centra Varaždin (SCVZ). Glavni cilj ovog sustava je poboljšati zadovoljstvo studenata obrocima putem praćenja njihovih preferencija i olakšati proces naručivanja hrane. SRMS će omogućiti evidenciju narudžbi, recenziranje obroka, generiranje izvještaja i integraciju s glavnim informacijskim sustavom studenata za provjeru valjanosti studentskih prava. Ovaj projekt će adresirati potrebe studenata za brzim i jednostavnim naručivanjem hrane te pružiti alate zaposlenicima restorana za učinkovito upravljanje narudžbama i poboljšanje kvalitete usluge.
