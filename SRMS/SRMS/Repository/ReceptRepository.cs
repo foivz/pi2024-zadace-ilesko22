@@ -40,6 +40,41 @@ namespace SRMS.Reposatory
 
         }
 
+        public static void InsertRecept(Recept recept)
+        {
+            string sql = $"INSERT INTO Recepti (Jelo, Sastojak) VALUES ('{recept.Jelo}', '{recept.Sastojak}')";
+            try
+            {
+                DB.OpenConnection();
+                DB.ExecuteCommand(sql);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception($"Error inserting data: {ex.Message}", ex);
+            }
+            finally
+            {
+                DB.CloseConnection();
+            }
+        }
+
+        public static void DeleteRecept(int idMeni1)
+        {
+            string sql = $"DELETE FROM Recepti WHERE IdMeni1 = {idMeni1}";
+            try
+            {
+                DB.OpenConnection();
+                DB.ExecuteCommand(sql);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception($"Error deleting data: {ex.Message}", ex);
+            }
+            finally
+            {
+                DB.CloseConnection();
+            }
+        }
 
         private static Recept CreateObject(SqlDataReader reader)
         {
