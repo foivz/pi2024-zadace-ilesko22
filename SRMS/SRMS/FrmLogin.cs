@@ -18,6 +18,7 @@ namespace SRMS
             InitializeComponent();
         }
 
+
         private void btnLogin_Click(object sender, EventArgs e)
         {
             string username = txtUsername.Text;
@@ -37,10 +38,9 @@ namespace SRMS
             }
         }
 
-        private void FrmLogin_Load(object sender, EventArgs e)
+        private void FrmLogin_Load_1(object sender, EventArgs e)
         {
             DB.SetConfiguration("PI2324_ilesko22_DB", "PI2324_ilesko22_User", ">N/PV71:");
-
         }
     }
 }

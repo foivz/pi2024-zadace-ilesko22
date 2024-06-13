@@ -12,3 +12,6 @@ C:\Users\Korisnik\source\repos\pi2024-zadace-ilesko22\SRMS\SRMS\obj\Debug\SRMS.e
 C:\Users\Korisnik\source\repos\pi2024-zadace-ilesko22\SRMS\SRMS\obj\Debug\SRMS.pdb
 C:\Users\Korisnik\source\repos\pi2024-zadace-ilesko22\SRMS\SRMS\obj\Debug\SRMS.FrmMeni1.resources
 C:\Users\Korisnik\source\repos\pi2024-zadace-ilesko22\SRMS\SRMS\obj\Debug\SRMS.FrmPlacanje.resources
+C:\Users\Korisnik\source\repos\pi2024-zadace-ilesko22\SRMS\SRMS\obj\Debug\SRMS.FrmPotvrda.resources
+C:\Users\Korisnik\source\repos\pi2024-zadace-ilesko22\SRMS\SRMS\obj\Debug\SRMS.csproj.Up2Date
+C:\Users\Korisnik\source\repos\pi2024-zadace-ilesko22\SRMS\SRMS\bin\Debug\DBLayer.dll

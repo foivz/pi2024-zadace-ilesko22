@@ -39,5 +39,13 @@ namespace SRMS
                         MessageBox.Show("Unijeli ste neipravne podatke", "Neuspješna prijava", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         }
         }
+
+        private void btnNazadPlacanje_Click(object sender, EventArgs e)
+        {
+            Hide();
+            FrmRucak frmRucak = new FrmRucak();
+            frmRucak.ShowDialog();
+            this.Close();
+        }
     }
 }

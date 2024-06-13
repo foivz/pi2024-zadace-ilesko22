@@ -16,5 +16,14 @@ namespace SRMS
         {
             InitializeComponent();
         }
+
+        private void btnNazadPotvrda_Click(object sender, EventArgs e)
+        {
+            Hide();
+            FrmPocetnaStranica frmPocetnaStranica = new FrmPocetnaStranica();
+            frmPocetnaStranica.ShowDialog();
+            this.Close();
+
+        }
     }
 }

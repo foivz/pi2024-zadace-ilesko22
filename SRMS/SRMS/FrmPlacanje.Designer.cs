@@ -37,6 +37,7 @@
             this.txtDatumIsteka = new System.Windows.Forms.TextBox();
             this.txtCVC = new System.Windows.Forms.TextBox();
             this.btnNastavi = new System.Windows.Forms.Button();
+            this.btnNazadPlacanje = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblImePrez
@@ -113,11 +114,22 @@
             this.btnNastavi.UseVisualStyleBackColor = true;
             this.btnNastavi.Click += new System.EventHandler(this.btnNastavi_Click);
             // 
+            // btnNazadPlacanje
+            // 
+            this.btnNazadPlacanje.Location = new System.Drawing.Point(26, 13);
+            this.btnNazadPlacanje.Name = "btnNazadPlacanje";
+            this.btnNazadPlacanje.Size = new System.Drawing.Size(75, 23);
+            this.btnNazadPlacanje.TabIndex = 9;
+            this.btnNazadPlacanje.Text = "Nazad";
+            this.btnNazadPlacanje.UseVisualStyleBackColor = true;
+            this.btnNazadPlacanje.Click += new System.EventHandler(this.btnNazadPlacanje_Click);
+            // 
             // FrmPlacanje
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(536, 383);
+            this.Controls.Add(this.btnNazadPlacanje);
             this.Controls.Add(this.btnNastavi);
             this.Controls.Add(this.txtCVC);
             this.Controls.Add(this.txtDatumIsteka);
@@ -149,5 +161,6 @@
         private System.Windows.Forms.TextBox txtDatumIsteka;
         private System.Windows.Forms.TextBox txtCVC;
         private System.Windows.Forms.Button btnNastavi;
+        private System.Windows.Forms.Button btnNazadPlacanje;
     }
 }
