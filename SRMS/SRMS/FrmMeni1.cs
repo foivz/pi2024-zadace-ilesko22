@@ -79,5 +79,19 @@ namespace SRMS
                 MessageBox.Show("Molim odaberite redak koji želite obrisati.");
             }
         }
+
+        private void btnPretrazi_Click(object sender, EventArgs e)
+        {
+            string searchQuery = txtPretrazi.Text;
+            if (!string.IsNullOrWhiteSpace(searchQuery))
+            {
+                List<Recept> recepti = ReceptRepository.PretraziRecepti(searchQuery);
+                dgvRecepti.DataSource = recepti;
+            }
+            else
+            {
+                ShowRecepti();
+            }
+        }
     }
 }

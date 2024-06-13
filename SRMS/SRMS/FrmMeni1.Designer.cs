@@ -32,6 +32,9 @@
             this.dgvRecepti = new System.Windows.Forms.DataGridView();
             this.btnDodaj = new System.Windows.Forms.Button();
             this.btnObrisi = new System.Windows.Forms.Button();
+            this.lblPretrazivanje = new System.Windows.Forms.Label();
+            this.txtPretrazi = new System.Windows.Forms.TextBox();
+            this.btnPretrazi = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvRecepti)).BeginInit();
             this.SuspendLayout();
             // 
@@ -75,11 +78,40 @@
             this.btnObrisi.UseVisualStyleBackColor = true;
             this.btnObrisi.Click += new System.EventHandler(this.btnObrisi_Click);
             // 
+            // lblPretrazivanje
+            // 
+            this.lblPretrazivanje.AutoSize = true;
+            this.lblPretrazivanje.Location = new System.Drawing.Point(158, 28);
+            this.lblPretrazivanje.Name = "lblPretrazivanje";
+            this.lblPretrazivanje.Size = new System.Drawing.Size(66, 16);
+            this.lblPretrazivanje.TabIndex = 4;
+            this.lblPretrazivanje.Text = "Pretrazite:";
+            // 
+            // txtPretrazi
+            // 
+            this.txtPretrazi.Location = new System.Drawing.Point(230, 28);
+            this.txtPretrazi.Name = "txtPretrazi";
+            this.txtPretrazi.Size = new System.Drawing.Size(379, 22);
+            this.txtPretrazi.TabIndex = 5;
+            // 
+            // btnPretrazi
+            // 
+            this.btnPretrazi.Location = new System.Drawing.Point(627, 28);
+            this.btnPretrazi.Name = "btnPretrazi";
+            this.btnPretrazi.Size = new System.Drawing.Size(68, 23);
+            this.btnPretrazi.TabIndex = 6;
+            this.btnPretrazi.Text = "Pretrazi";
+            this.btnPretrazi.UseVisualStyleBackColor = true;
+            this.btnPretrazi.Click += new System.EventHandler(this.btnPretrazi_Click);
+            // 
             // FrmMeni1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 539);
+            this.Controls.Add(this.btnPretrazi);
+            this.Controls.Add(this.txtPretrazi);
+            this.Controls.Add(this.lblPretrazivanje);
             this.Controls.Add(this.btnObrisi);
             this.Controls.Add(this.btnDodaj);
             this.Controls.Add(this.dgvRecepti);
@@ -93,6 +125,7 @@
             this.Load += new System.EventHandler(this.FrmMeni1_Load_1);
             ((System.ComponentModel.ISupportInitialize)(this.dgvRecepti)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -102,5 +135,8 @@
         private System.Windows.Forms.DataGridView dgvRecepti;
         private System.Windows.Forms.Button btnDodaj;
         private System.Windows.Forms.Button btnObrisi;
+        private System.Windows.Forms.Label lblPretrazivanje;
+        private System.Windows.Forms.TextBox txtPretrazi;
+        private System.Windows.Forms.Button btnPretrazi;
     }
 }

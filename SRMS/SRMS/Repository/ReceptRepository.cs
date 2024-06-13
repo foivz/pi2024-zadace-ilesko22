@@ -89,5 +89,30 @@ namespace SRMS.Reposatory
                 };
                 return recept;
         }
+        public static List<Recept> PretraziRecepti(string query)
+        {
+            List<Recept> recepti = new List<Recept>();
+            string sql = $"SELECT * FROM Recepti WHERE Jelo LIKE '%{query}%' OR Sastojak LIKE '%{query}%'";
+            try
+            {
+                DB.OpenConnection();
+                var reader = DB.GetDataReader(sql);
+                while (reader.Read())
+                {
+                    Recept recept = CreateObject(reader);
+                    recepti.Add(recept);
+                }
+                reader.Close();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception($"Error searching data: {ex.Message}", ex);
+            }
+            finally
+            {
+                DB.CloseConnection();
+            }
+            return recepti;
+        }
     }
 }
